@@ -3,3 +3,4 @@ This is my PowerBI Dashboard, I am having HR Data using which i found total no o
 now i am committing regular changes and i will sure to add new projects soon
 i am gonna update readme!
 this is my minor project
+i am going to some new and good dashboards as early as possible
