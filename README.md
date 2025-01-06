@@ -102,12 +102,6 @@ We welcome contributions! If you'd like to improve this project:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgments
 
 Special thanks to the contributors who made this project possible!
