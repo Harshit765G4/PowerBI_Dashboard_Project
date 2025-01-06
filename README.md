@@ -106,4 +106,4 @@ We welcome contributions! If you'd like to improve this project:
 
 Special thanks to the contributors who made this project possible!
 
-Also a special mention to "DATA TUTORIALS" Youtube channel from where I take out help from their Tutorials
+Also a special mention to "DATA TUTORIALS" Youtube channel from where I take out help from their Tutorials.
